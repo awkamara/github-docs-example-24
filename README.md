@@ -78,7 +78,7 @@ Here are some examples:
 
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
-| Cloud | `:cloud:` | :cloud: |
+| Cloud | `:cloud:` | ☁️ |
 | Cloud with lighting | `:cloud_with_lighting:` | ☁️  |
 
 # Step 5 - How to create a table
