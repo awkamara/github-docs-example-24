@@ -112,6 +112,8 @@ The screenshots will be saved to your desktop by default.
    - Press `Windows key + Shift + S`, then click and drag to select the area you want to capture. This copies the screenshot to clipboard.
 
 These are the basic built-in methods for taking screenshots on Mac and Windows systems. Keep in mind that on Windows, you may also have additional screenshot tools available depending on your version of Windows and any third-party software you have installed.
+
+
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
@@ -148,6 +150,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - but it may vary based on your keyboard layout.
   
 ![Photo of the pipe character on our keyboard](assets/pipe-char.jpeg)
+
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 
 ## External References
