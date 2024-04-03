@@ -64,6 +64,11 @@ person1 = Person.new("Alice", 30, "female")
 
 > Here is an example of using a codeblock for an error that appears in bash.
 
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot make sure it not a photo from your phone.
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. If it render on your computer screen it should be a screenshot.
+
 ## Step 1 - how to take screenshots.
 
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
@@ -77,6 +82,8 @@ This is not be confused with take a photo with your phone.
 This is what a screenshot from your computer should look like
 
 **DO THIS INSTEAD**
+
+![Screenshot example](Screenshot-example.png)
 
 For Mac and Windows, you can take screenshots using built-in hotkeys. Here's how you can do it:
 
