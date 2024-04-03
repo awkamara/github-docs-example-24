@@ -46,7 +46,7 @@ class Person
 end
 ```
 
-- Make note of where the backtick button is located.
+- Make note of where the backtick keyboard key is located.
 - It should appear above the tab key,
 - but it may vary based on your keyboard layout.
 
@@ -93,6 +93,13 @@ You can use the following markdown format to create tables:
 | Cloud with lighting | `:cloud_with_lighting:` | ☁️  |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external references)
+
+
+- Make note of where the pipe keyboard key is located.
+- It should appear above the return or enter key,
+- but it may vary based on your keyboard layout.
+  
+![Photo of the pipe character on our keyboard](assets/pipe-char.jpeg)
 
 
 ## External References
