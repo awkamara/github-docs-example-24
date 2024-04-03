@@ -64,6 +64,47 @@ person1 = Person.new("Alice", 30, "female")
 
 > Here is an example of using a codeblock for an error that appears in bash.
 
+## Step 1 - how to take screenshots.
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not be confused with take a photo with your phone.
+
+**DON'T DO THIS**
+
+![a photo with your phone ](assets/phone-photo.jpg)
+
+This is what a screenshot from your computer should look like
+
+**DO THIS INSTEAD**
+
+For Mac and Windows, you can take screenshots using built-in hotkeys. Here's how you can do it:
+
+### Mac:
+
+1. **Capture Entire Screen:**
+   - Press `Command (⌘) + Shift + 3`.
+
+2. **Capture a Selected Area:**
+   - Press `Command (⌘) + Shift + 4`, then click and drag to select the area you want to capture.
+
+3. **Capture a Specific Window:**
+   - Press `Command (⌘) + Shift + 4`, then press the `Spacebar`. Your cursor will turn into a camera icon. Click on the window you want to capture.
+
+The screenshots will be saved to your desktop by default.
+
+### Windows:
+
+1. **Capture Entire Screen:**
+   - Press `PrtScn` (Print Screen) key. On some keyboards, you might need to use `Fn` key along with `PrtScn`.
+
+2. **Capture the Active Window:**
+   - Press `Alt + PrtScn`.
+
+3. **Capture a Selected Area (Windows 10 and later):**
+   - Press `Windows key + Shift + S`, then click and drag to select the area you want to capture. This copies the screenshot to clipboard.
+
+These are the basic built-in methods for taking screenshots on Mac and Windows systems. Keep in mind that on Windows, you may also have additional screenshot tools available depending on your version of Windows and any third-party software you have installed.
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
